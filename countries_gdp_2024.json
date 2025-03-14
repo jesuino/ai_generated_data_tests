@@ -1,0 +1,7 @@
+{
+    "countries_gdp": [
+          {"country": "United States", "gdp": 2546000},
+          {"country": "China", "gdp": 1973000},
+          {"country": "Japan", "gdp": 547000}
+    ]
+}
